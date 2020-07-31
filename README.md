@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi there! I'm Aymane Mimouni
+I’m a Software engineer at [Obytes](https://www.obytes.com/).
 
-<!--
-**aymaneMx/aymaneMx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I really like writing code. Especially in Python and Django Framework.
+- I have a basic background in cloud-based solutions
+- I excel at helping clients bring their ideas to life.
+- I blog about my journey as a developer :point_right: https://aymanemx.github.io/
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do Well
+🚀  **Environment:** Git, GitHub, pip, Agile (Scrum), JIRA, CI, CircleCi and Test Driven Development.
+
+🚀  **Code:** Python, Django Framework, DRF, Flask, Celery.
+
+🚀  **Data:** PostgreSQL, Redis, memcached, MySQL, SQL Server and SQLite.
+
+🚀  **Deployment:** Docker, Amazon Web Services (AWS), Heroku, Nginx, Celery and RabbitMQ.
+
+### Get In Touch
+Feel free to:
+
+- DM me on [Twitter](https://twitter.com/aymane_max) ⚡
+- 📧 me at aymaneMx@gmail.com
