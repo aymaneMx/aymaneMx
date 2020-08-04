@@ -4,7 +4,7 @@ I’m a Software engineer at [Obytes](https://www.obytes.com/).
 - I really like writing code. Especially in Python and Django Framework.
 - I have a basic background in cloud-based solutions
 - I excel at helping clients bring their ideas to life.
-- I blog about my journey as a developer :point_right: https://aymanemx.github.io/
+- I blog about my journey as a developer :point_right: https://aymanemx.com/
 
 
 ### What I Do Well
